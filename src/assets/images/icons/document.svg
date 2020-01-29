@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281.321" height="264.559" viewBox="0 0 281.321 264.559">
+  <g id="Group_65" data-name="Group 65" transform="translate(-722.535 -256.696)">
+    <path id="Path_51" data-name="Path 51" d="M953.94,294.729V517.4H726.394V260.555H921.1Z" transform="translate(0)" fill="none" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/>
+    <path id="Path_52" data-name="Path 52" d="M961.248,294.729,928.41,260.555v34.174Z" transform="translate(-7.308)" fill="none" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/>
+    <g id="Group_62" data-name="Group 62" transform="translate(777.541 328.358)">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="104.138" height="104.135" transform="translate(10.9 10.226)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="20.444" height="20.447" transform="translate(0 0.651)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="#44c3f4"/>
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="20.444" height="20.447" transform="translate(104.82 0)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="#44c3f4"/>
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="41.542" height="41.55" transform="translate(42.198 41.516)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <rect id="Rectangle_17" data-name="Rectangle 17" width="20.444" height="20.451" transform="translate(0 100.788)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="#44c3f4"/>
+      <rect id="Rectangle_18" data-name="Rectangle 18" width="20.444" height="20.451" transform="translate(104.82 100.788)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="#44c3f4"/>
+    </g>
+    <g id="Group_64" data-name="Group 64" transform="translate(975.547 265.86)">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="24.45" height="184.712" transform="translate(0 32.239)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="#44c3f4"/>
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="24.45" height="12.963" transform="translate(0 19.276)" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Path_53" data-name="Path 53" d="M1009.348,285.335v-7.052a12.225,12.225,0,0,0-24.45,0v7.052Z" transform="translate(-984.898 -266.059)" fill="none" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/>
+      <path id="Path_54" data-name="Path 54" d="M984.9,491.152h24.45l-12.221,29.276Z" transform="translate(-984.898 -274.202)" fill="none" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/>
+      <path id="Path_55" data-name="Path 55" d="M991.324,506.531l6.035,14.454,6.039-14.454Z" transform="translate(-985.13 -274.758)" fill="none" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.718"/>
+      <g id="Group_63" data-name="Group 63" transform="translate(12.229 32.239)">
+        <line id="Line_5" data-name="Line 5" y2="184.712" stroke-width="7.718" stroke="#003189" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
